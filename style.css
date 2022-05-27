@@ -1,0 +1,28 @@
+.header{
+    width:100%;
+    margin:0px;
+    font-size:21px;
+    box-shadow: 3px 5px 1px teal;
+}
+.user_note{
+    color:black;
+    font-size:18px;
+}
+#square_size{
+    color:red;
+    font-size:20px;
+}
+.copyright_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    line-height:3;
+    text-align:center;
+    background-color: gray;
+    color:white;
+}
+canvas{
+    border:white solid;
+    border-radius: 25px;;
+    box-shadow: 3px 5px 10px gray;
+}
